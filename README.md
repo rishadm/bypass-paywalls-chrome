@@ -2,8 +2,9 @@
 ### Installation Instructions
 **Google Chrome**:
 1. Download this repo as a ZIP from github.
-1. Unzip the file and you should have a folder named `bypass-paywalls-chrome-master`.
-1. In Chrome go to the extensions page (`chrome://extensions`) and drag the `bypass-paywalls-chrome-master` folder anywhere on the page to import it.
+2. Unzip the file and you should have a folder named `bypass-paywalls-chrome-master`.
+3. In Chrome go to the extensions page (`chrome://extensions`) and enable Developer mode.
+4. Click Load unpacked on top left corner and then select the `bypass-paywalls-chrome-master` folder to import it.
 
 Note: Every time you open Chrome it may warn you about running extensions in developer mode, just hit cancel to keep the extension enabled.
 
